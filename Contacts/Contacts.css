@@ -1,0 +1,54 @@
+nav{
+  background: lightblue;
+  height: 80px;
+  width: 100%;
+}
+
+nav ul {
+  float: right;
+  margin-right: 20px;
+}
+
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+
+nav ul li a{
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+
+html {
+ background-image: url("bg1.jpeg");
+ height: 100%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-color: black;
+}
+
+h1{
+ font-family: Times New Roman;
+ 
+}
+
+b{
+  color: lightgreen;
+}
+p{
+  color: white;
+  text-align: center;
+  text-align: justify;
+  display: inline-block;
+  font-family: Times New Roman;
+}
+
+img{
+  height: 50%;
+  width: 50%;
+  display: inline-block;
+  position: center;
+}
